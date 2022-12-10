@@ -1,2 +1,2 @@
-# ManejoBasesDatosPython
-Mi intención es explicar toda la estructura, funciones y librerias para manejo de bases de datos desde python, es decir, podrás aprender acerca de cargar datos desde excel, texto y modificar, eliminar y mover diferentes datos, para así, organizar tus bases de datos.
+# Aprende a manejar bases de datos desde Python
+Hola, mi nombre es Jeronimo, soy programador y economista, mi intención en este repositorio es explicar toda la estructura, diferentes funciones y librerias para manejo de bases de datos desde Python, es decir, podrás aprender diferentes utilidades con Python, desde cargar datos desde excel, texto, hasta modificar, eliminar y mover diferentes datos, para así, tener diferentes herramientas que te ayudarán en tus proyectos o en tu trabajo.
